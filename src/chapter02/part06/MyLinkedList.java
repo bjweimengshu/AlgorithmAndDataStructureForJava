@@ -1,8 +1,5 @@
 package chapter02.part06;
 
-/**
- * Created by weimengshu on 2018/8/24.
- */
 public class MyLinkedList {
 
     //头节点指针
