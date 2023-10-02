@@ -1,8 +1,5 @@
 package chapter02.part07;
 
-/**
- * Created by weimengshu on 2018/8/24.
- */
 public class MyQueue {
 
     private int[] array;
