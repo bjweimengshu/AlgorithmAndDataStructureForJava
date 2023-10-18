@@ -1,4 +1,4 @@
-package chapter03.part10;
+package chapter03.part11;
 
 public class BinarySearchTree {
     private Node root;
