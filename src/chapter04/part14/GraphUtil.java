@@ -1,4 +1,4 @@
-package chapter3.part2;
+package chapter04.part02;
 import java.util.LinkedList;
 
 public class GraphUtil {
