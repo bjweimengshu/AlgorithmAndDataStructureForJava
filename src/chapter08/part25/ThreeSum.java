@@ -1,10 +1,7 @@
-package chapter5.part3;
+package chapter07.part25;
 
 import java.util.*;
 
-/**
- * Created by bjwei on 2020/9/21.
- */
 public class ThreeSum {
 
     public static List<List<Integer>> threeSum(int[] nums, int target) {
